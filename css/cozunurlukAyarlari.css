@@ -1,0 +1,20 @@
+@media(min-width:1px) and (max-width:480px) {
+	.fontSize{font-size:10px}
+													}	
+												
+   @media(min-width:480px) and (max-width:767px) {
+	.fontSize{font-size:11px}
+												}	
+  @media(min-width:768px) and (max-width:991px) {
+	.fontSize{font-size:13px}
+												}												
+	
+  @media(min-width:992px) and (max-width:1199px) {
+	.fontSize{font-size:14px}
+												}
+												
+  @media(min-width:1200px) {
+	.fontSize{font-size:15px}
+												}											
+ 
+ 
